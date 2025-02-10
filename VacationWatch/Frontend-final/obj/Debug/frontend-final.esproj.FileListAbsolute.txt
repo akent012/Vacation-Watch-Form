@@ -1,0 +1,3 @@
+C:\Users\kents\Desktop\Invernus Project\VacationWatch\Frontend-final\obj\Debug\frontend-final.esproj.CoreCompileInputs.cache
+C:\Users\kents\Desktop\Anthony - Inverness\Invernus Project\VacationWatch\Frontend-final\obj\Debug\frontend-final.esproj.CoreCompileInputs.cache
+C:\Users\kents\Desktop\Portfolio\Invernus Project\Invernus Project\VacationWatch\Frontend-final\obj\Debug\frontend-final.esproj.CoreCompileInputs.cache
